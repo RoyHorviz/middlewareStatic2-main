@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background-color: rgb(246, 246, 246);
+}
+
+h1 {
+  color: #010101;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.g1 {
+  gap: 1rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+li > a {
+  text-decoration: none;
+  color: rgb(255, 183, 0);
+}
